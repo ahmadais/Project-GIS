@@ -1,0 +1,16 @@
+!table
+!version 450
+!charset WindowsLatin1
+
+Definition Table
+  Type NATIVE Charset "WindowsLatin1"
+  Fields 4
+    ID Float ;
+    Class Char (90) ;
+    bldng_Height Float ;
+    Name Char (90) ;
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "848d58b1-263a-41d1-ba39-3feaadb173cd"
+end_metadata
