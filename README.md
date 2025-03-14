@@ -35,9 +35,5 @@ Jika ingin berkontribusi pada proyek ini:
 3. Lakukan perubahan dan commit.
 4. Buat pull request untuk ditinjau.
 
-## Lisensi
-Proyek ini menggunakan lisensi [MIT License](LICENSE).
-
----
 Jika ada pertanyaan atau masukan, silakan buat issue atau hubungi saya melalui GitHub!
 
